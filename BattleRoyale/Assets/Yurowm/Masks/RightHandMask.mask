@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RightHandMask
+  m_Mask: 01000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ContractKiller
+    m_Weight: 0
+  - m_Path: ContractKiller/Silenced_Pistol_Left
+    m_Weight: 0
+  - m_Path: ContractKiller/Silenced_Pistol_Right
+    m_Weight: 0
+  - m_Path: Rig
+    m_Weight: 0
+  - m_Path: RigAss
+    m_Weight: 0
+  - m_Path: RigAss/RigLegLeft1
+    m_Weight: 0
+  - m_Path: RigAss/RigLegLeft1/RigLegLeft2
+    m_Weight: 0
+  - m_Path: RigAss/RigLegLeft1/RigLegLeft2/RigLegLeft3
+    m_Weight: 0
+  - m_Path: RigAss/RigLegRight1
+    m_Weight: 0
+  - m_Path: RigAss/RigLegRight1/RigLegRight2
+    m_Weight: 0
+  - m_Path: RigAss/RigLegRight1/RigLegRight2/RigLegRight3
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing11
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing11/RigArmLeftFing12
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing11/RigArmLeftFing12/RigArmLeftFing13
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing21
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing21/RigArmLeftFing22
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing21/RigArmLeftFing22/RigArmLeftFing23
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing31
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing31/RigArmLeftFing32
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing31/RigArmLeftFing32/RigArmLeftFing33
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing41
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing41/RigArmLeftFing42
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigArmLeftFing41/RigArmLeftFing42/RigArmLeftFing43
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmLeftCollarbone/RigArmLeft1/RigArmLeft2/RigArmLeft3/RigPistolLeft
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing11
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing11/RigArmRightFing12
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing11/RigArmRightFing12/RigArmRightFing13
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing21
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing21/RigArmRightFing22
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing21/RigArmRightFing22/RigArmRightFing23
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing31
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing31/RigArmRightFing32
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing31/RigArmRightFing32/RigArmRightFing33
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing41
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing41/RigArmRightFing42
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigArmRightFing41/RigArmRightFing42/RigArmRightFing43
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigArmRightCollarbone/RigArmRight1/RigArmRight2/RigArmRight3/RigPistolRight
+    m_Weight: 1
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigNeck
+    m_Weight: 0
+  - m_Path: RigAss/RigSpine1/RigSpine2/RigSpine3/RigNeck/RigHead
+    m_Weight: 0
