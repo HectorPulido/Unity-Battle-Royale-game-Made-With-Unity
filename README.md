@@ -13,6 +13,7 @@ https://www.twitch.tv/hector_pulido_<br/>
 Open it on unity 2017.3 or greater, and play around with the project.
 
 
+<hr>
 <div align="center">
 <h3 align="center">Let's connect 😋</h3>
 </div>
@@ -25,6 +26,5 @@ Open it on unity 2017.3 or greater, and play around with the project.
 <img align="center" width="30px" alt="Hector's Twitch" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw" target="blank">
 <img align="center" width="30px" alt="Hector's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
-
-</p>
-
+<a href="https://pequesoft.net/" target="blank">
+<img align="center" width="30px" alt="Pequesoft website" src="https://github.com/HectorPulido/HectorPulido/blob/master/img/pequesoft-favicon.png?raw=true"/></a> &nbsp; &nbsp;
